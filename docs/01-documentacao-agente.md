@@ -23,7 +23,7 @@ Uma IA educativa queexplica os conceitos de entradas e saídas, porém sem impac
 
 ### Nome do Agente
 
-EDU
+Helena
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
